@@ -1,5 +1,5 @@
 let numbers = [1, 2, 3, 4, 5]
-let studentNames = ["John", "Jane", "Bob"]
+let studentNames = ["John", "Janee", "Bob"]
 
 console.log(numbers);
 console.log(studentNames);
